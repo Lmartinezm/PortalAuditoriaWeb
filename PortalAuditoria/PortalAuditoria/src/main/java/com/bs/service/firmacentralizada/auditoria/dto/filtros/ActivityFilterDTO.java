@@ -12,6 +12,7 @@ public class ActivityFilterDTO extends FilterDTO {
 
 	private Long activityId;
 	
+	
 	private Long operationId;
 	
 	private Integer flowId;
